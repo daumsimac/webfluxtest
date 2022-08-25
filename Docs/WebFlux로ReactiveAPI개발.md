@@ -21,6 +21,8 @@
 ### 1.1 스프링 WebFlux 개요
 
 ![webflux01](https://user-images.githubusercontent.com/2074496/186586869-af7b4181-3201-4615-9527-440e7ffbcb0b.PNG)
+<br>
+
 스프링 5는 WebFlux라고 불리는 새로운 웹 프레임워크를 활용하여 리액티브 웹 애플리케이션 개발을 지원하며, WebFlux는 스프링 MVC프레임워크와 핵심부분을 공유하는 사촌지간이다.
 <br>
 스프링 5는 WebFlux라는 새로운 웹 프레임워크로 리액티브 웹 애플리케이션을 지원한다. Web-Flux는 스프링 Flux는 스프링 MVC의 많은 핵심 컴포넌트를 공유한다.
